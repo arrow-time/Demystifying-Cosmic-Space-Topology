@@ -12,7 +12,7 @@ The core setup of this paper can be summarized as four interlocking concepts:
 
 4.fixed chirality. 
 
-5. the spin,resonant and axial rotation degree of freedom of space elementary quanta- SEQ
+5.the spin,resonant and axial rotation degree of freedom of space elementary quanta- SEQ
 
 
 First, the fundamental connectivity of cosmic space never changes—which Space Elementary Quanta (SEQs) are adjacent to which is fixed, just like a rubber sheet that can be arbitrarily stretched and twisted but never torn. This topological invariance guarantees global energy conservation (energy is only redistributed among fixed nodes), the non-additivity of the speed of light (wave propagation on a discrete network has an upper speed limit), and the mathematical consistency of path integrals. 
